@@ -1,0 +1,8 @@
+body {
+    background-image: url('../img/Hinh-nen-may-tinh-toi-gian-800x450.jpg');
+    background-size: cover;
+}
+
+.todoapp h1  { 
+    color: rgb(0 0 0 / 15%); 
+}
